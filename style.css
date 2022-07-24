@@ -1,0 +1,39 @@
+.section{
+				width: 500px;
+				height: 550px;
+				border-radius: 15px;
+				background: #3498db;
+				margin: 150px auto;
+}
+
+.register-form label {
+				width: 150px;
+				font-size: 700;
+				}
+	
+.form-control {
+				margin: 5px 0px;
+				padding: 5px 0px;
+}
+
+.register-form label{
+			display: block;
+}
+form {
+				margin: 50px 50px 50px 150px;
+				color: white;
+}
+
+ h2 {	
+				padding-top: 50px;
+				color: white;
+													
+}
+
+.btn{
+				padding:10px ;
+				background: white;
+				color: black;
+				border-radius: 5px;
+				font-weight: 700%;
+}
